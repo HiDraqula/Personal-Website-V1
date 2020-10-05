@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "draqula-d524b": {
+      "hosting": {
+        "mywebsite": [
+          "myselfani"
+        ]
+      }
+    }
+  }
+}
