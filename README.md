@@ -1,4 +1,4 @@
-# Mywebsite (In Angular)
+# MyWebsite (In Angular)
 
 Live Here... https://myselfani.netlify.app/
 
