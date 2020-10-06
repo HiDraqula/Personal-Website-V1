@@ -1,4 +1,4 @@
-# Mywebsite
+# Mywebsite (In Angular)
 
 Live Here... https://myselfani.netlify.app/
 
@@ -7,6 +7,10 @@ Live Here... https://myselfani.netlify.app/
 `If something is free why to waste money on it`,
 
 i'll rather choose to enjoy a favrouite meal with my beloved ones...😇✌
+
+Also Basic Version of it 👉 https://github.com/HiDraqula/HiDraqula.github.io
+
+#
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.0.3.
 
